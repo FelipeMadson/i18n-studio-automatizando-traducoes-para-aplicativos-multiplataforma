@@ -35,7 +35,7 @@
 
 ## 🎮 Live Interactive Playground (No Backend Required)
 
-Experimente o simulador em tempo real executando 100% no seu navegador com WebCrypto, Token Bucket e Write-Ahead Logging:
+Experimente o estúdio de localização com matriz multi-idioma em tempo real, validador de plurais ICU e exportação instantânea:
 👉 **[Acessar Live Playground do I18n Studio Automatizando Traducoes Para Aplicativos Multiplataforma](https://felipemadson.github.io/i18n-studio-automatizando-traducoes-para-aplicativos-multiplataforma/)**
 
 ## 🖥️ Demonstração em Terminal Vetorial (Execução & Benchmarks)
