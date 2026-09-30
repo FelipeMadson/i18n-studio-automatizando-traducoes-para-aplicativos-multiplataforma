@@ -1,0 +1,46 @@
+{
+  "spdxVersion": "SPDX-2.3",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "I18n Studio Automatizando Traducoes Para Aplicativos Multiplataforma SBOM",
+  "documentNamespace": "https://github.com/FelipeMadson/i18n-studio-automatizando-traducoes-para-aplicativos-multiplataforma/spdxdocs/i18n-studio-automatizando-traducoes-para-aplicativos-multiplataforma-1.0.0-03edb45f-ffc1-4d8b-a2cf-a6459d030b95",
+  "creationInfo": {
+    "created": "2026-09-30T15:18:13.112Z",
+    "creators": [
+      "Person: Felipe Madison (@FelipeMadson)",
+      "Organization: Autonomous Portfolio Engine — Staff Engineering Grade",
+      "Tool: SecurityCiGenerator-1.0.0"
+    ],
+    "licenseListVersion": "3.21"
+  },
+  "packages": [
+    {
+      "name": "i18n-studio-automatizando-traducoes-para-aplicativos-multiplataforma",
+      "SPDXID": "SPDXRef-Package-i18n-studio-automatizando-traducoes-para-aplicativos-multiplataforma",
+      "versionInfo": "1.0.0",
+      "packageFileName": "i18n-studio-automatizando-traducoes-para-aplicativos-multiplataforma-1.0.0.tar.gz",
+      "packageSupplier": "Person: Felipe Madison (https://github.com/FelipeMadson)",
+      "originator": "Person: Felipe Madison (https://github.com/FelipeMadson)",
+      "downloadLocation": "git+https://github.com/FelipeMadson/i18n-studio-automatizando-traducoes-para-aplicativos-multiplataforma.git@v1.0.0",
+      "filesAnalyzed": false,
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fd6a436515112a7160a18dc44600034deb62908230205aa1024daa39c423d143"
+        }
+      ],
+      "homepage": "https://github.com/FelipeMadson/i18n-studio-automatizando-traducoes-para-aplicativos-multiplataforma",
+      "concludedLicense": "MIT",
+      "declaredLicense": "MIT",
+      "copyrightText": "Copyright (c) 2026 Felipe Madison (@FelipeMadson)",
+      "description": "Enterprise-grade production release for I18n Studio Automatizando Traducoes Para Aplicativos Multiplataforma, engineered by Felipe Madison."
+    }
+  ],
+  "relationships": [
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-Package-i18n-studio-automatizando-traducoes-para-aplicativos-multiplataforma",
+      "relationshipType": "DESCRIBES"
+    }
+  ]
+}
