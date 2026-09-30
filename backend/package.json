@@ -1,6 +1,6 @@
 {
   "name": "i18n-studio-automatizando-traducoes-para-aplicativos-multiplataforma-backend",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Backend Enterprise SaaS para I18n Studio: Automatizando Traduções para Aplicativos Multiplataforma",
   "type": "module",
   "main": "src/server.ts",
