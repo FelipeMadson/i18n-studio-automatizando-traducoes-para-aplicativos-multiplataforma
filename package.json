@@ -1,5 +1,5 @@
 {
-  "name": "i18n-studio-automatizando-traducoes-para-aplicativos-multiplataforma-root",
+  "name": "@felipemadson/i18n-studio-automatizando-traducoes-para-aplicativos-multiplataforma",
   "version": "1.1.0",
   "private": true,
   "type": "module",
@@ -19,5 +19,9 @@
     "i18n-studio-automatizando-traducoes-para-aplicativos-multiplataforma"
   ],
   "author": "Felipe Madison (@FelipeMadson)",
-  "license": "MIT"
+  "license": "MIT",
+  "bin": {
+    "i18n-studio-automatizando-traducoes-para-aplicativos-multiplataforma": "./bin/cli.js",
+    "@felipemadson/i18n-studio-automatizando-traducoes-para-aplicativos-multiplataforma": "./bin/cli.js"
+  }
 }
