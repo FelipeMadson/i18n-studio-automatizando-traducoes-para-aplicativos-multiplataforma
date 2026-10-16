@@ -1,5 +1,8 @@
 # I18n Studio: Automatizando Traduções para Aplicativos Multiplataforma
 
+> 🇧🇷 **[Versão em Português](README.pt-BR.md)** | 🇺🇸 **English Version**
+
+
 [![CI Status](https://github.com/FelipeMadson/i18n-studio-automatizando-traducoes-para-aplicativos-multiplataforma/actions/workflows/ci.yml/badge.svg)](https://github.com/FelipeMadson/i18n-studio-automatizando-traducoes-para-aplicativos-multiplataforma/actions)
 [![Latest Release](https://img.shields.io/github/v/release/FelipeMadson/i18n-studio-automatizando-traducoes-para-aplicativos-multiplataforma?color=145e4d&logo=github)](https://github.com/FelipeMadson/i18n-studio-automatizando-traducoes-para-aplicativos-multiplataforma/releases)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-145e4d?logo=github)](https://felipemadson.github.io/i18n-studio-automatizando-traducoes-para-aplicativos-multiplataforma/)
